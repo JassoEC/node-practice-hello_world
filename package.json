@@ -1,0 +1,19 @@
+{
+  "name": "practice-hello_world",
+  "version": "1.0.0",
+  "description": "Proyecto de estudio de fundamentos de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JassoEC/node-practice-hello_world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JassoEC/node-practice-hello_world/issues"
+  },
+  "homepage": "https://github.com/JassoEC/node-practice-hello_world#readme"
+}
